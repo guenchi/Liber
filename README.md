@@ -1,2 +1,3 @@
 # Bookmarks
-Bookmarks is a parser to parse HTML template
+
+Bookmarks is use to parse template formed of Scheme List to HTML.
