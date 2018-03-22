@@ -1,3 +1,3 @@
-# Bookmarks
+# Liber
 
-Bookmarks is a template parser for Scheme List to HTML
+Liber is a template parser for Scheme List to HTML
