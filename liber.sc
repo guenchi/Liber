@@ -12,4 +12,4 @@
 								(cdar lst))))))
 				(if (null? (cdr lst))
 					(f lst x)
-					(loop (cdr lst) (f lst x)))))))
+					(loop (cdr lst) (f lst x))))))
