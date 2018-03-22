@@ -18,7 +18,7 @@ when it accept a list, the seconde and third atom in the list copose a pair, and
 =>
 <p class="p's class" color="red">exemple</p>
 ```
-the top and the child elements must be wrapped with `(list)` with we renamed `(!--)
+the top and the child elements must be wrapped with `(list)` with we renamed `(!--)`
 
 ```
 (!--
