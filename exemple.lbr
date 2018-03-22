@@ -1,0 +1,24 @@
+(!-- 
+(html
+    (!--
+    (head
+        (!--
+        (meta '("http-equiv" "Content-Type" "content" "charset=utf-8"))
+        (title "Scheme Website")
+        (link '("href" "http://fonts.googleapis.com/icon?family=Material+Icons" "rel" "stylesheet"))
+        (link '("type" "text/css" "rel" "stylesheet" "media" "screen,projection" "href"
+                "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/css/materialize.min.css"))))
+    (body
+    (!--
+        (h1 "Exemple of Liber")
+        (p 
+        (!-- 
+            (!--
+            (div "this is a Liber Templat")) 
+        "class" "the classe of <p>"))
+        (p 
+            (!--
+            (p "the body of texts.")
+            (p "another line.")
+            (p "Write whatever.")))
+            (script '("" "src" "https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js")))))))
