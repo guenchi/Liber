@@ -1,5 +1,43 @@
 (library (liber liber)
   (export
+    !--
+    bcstr
+    cstr
+    HTML
+    HEAD
+    BODY
+    TITLE
+    LINK
+    SCRIPT
+    P
+    A
+    DIV
+    SPAN
+    META
+    IMG
+    H1
+    H2
+    H3
+    H4
+    H5
+    html
+    head
+    body
+    title
+    link
+    script
+    p
+    a
+    div
+    span
+    meta
+    img
+    h1
+    h2
+    h3
+    h4
+    h5
+    render
   )
   (import
     (scheme)
