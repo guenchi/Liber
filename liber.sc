@@ -4,7 +4,7 @@
 		(let loop ((lst lst)(x ""))
 				(define f
 					(lambda (lst x)
-						(strapp  x ((caar lst)
+						(string-append  x ((caar lst)
 							(if (and (list? (cdar lst)) (pair? (cadar lst)))
 								(if (or (null? (cddar lst)) (pair? (caddar lst)))
 									(loop (cdar lst) "\n")
