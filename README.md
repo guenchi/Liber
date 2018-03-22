@@ -1,3 +1,3 @@
 # Bookmarks
 
-Bookmarks is use to parse template formed of Scheme List to HTML.
+Bookmarks is a template parser for Scheme List to HTML
